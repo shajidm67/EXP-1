@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** | Mohamed fatheen | **Reg. No.:** | 26006890 |
+| **Name:** | Mohamed Shajid A | **Reg. No.:** | 25013425 |
 |---|---|---|---|
-| **Date:** |7/10/2026 | **Batch / Section:** |26ODJ102 |
+| **Date:** |26/11/2026 | 
 
 ---
 
